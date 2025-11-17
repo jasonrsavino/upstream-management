@@ -1,5 +1,5 @@
 {
-    "name": "jasonrsavino/upstream-management",
+    "name": "pantheon-systems/upstream-management",
     "description": "Composer plugin that holds a series of scripts to manage upstreams in Pantheon",
     "type": "composer-plugin",
     "require-dev": {
