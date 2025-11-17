@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-systems/upstream-management",
+    "name": "jasonrsavino/upstream-management",
     "description": "Composer plugin that holds a series of scripts to manage upstreams in Pantheon",
     "type": "composer-plugin",
     "require-dev": {
@@ -22,7 +22,7 @@
             "email": "cms-ecosystem@pantheon.io"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "composer-plugin-api": "^2.3"
     },
